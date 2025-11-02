@@ -12,3 +12,5 @@ Unauthorized reproduction, modification, or redistribution of this work without 
 ## License
 Licensed under the **CC BY-NC-ND 4.0 License**.
 See [LICENSE](LICENSE) file for details.
+
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
